@@ -1,0 +1,37 @@
+# UTF-8
+#
+# 版本信息文件，用于 PyInstaller 打包
+# 会在 Windows 资源管理器中显示文件属性
+#
+# 作者: zhifouli
+# GitHub: https://github.com/zhifouli?tab=repositories
+
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 1, 0),
+    prodvers=(1, 0, 1, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        u'080404b0',
+        [StringStruct(u'CompanyName', u'zhifouli'),
+          StringStruct(u'FileDescription', u'PDF 转图片工具 - 批量转换 PDF 为图片'),
+          StringStruct(u'FileVersion', u'1.0.0.0'),
+          StringStruct(u'InternalName', u'PDF2IMG'),
+          StringStruct(u'LegalCopyright', u'Copyright © 2025 zhifouli'),
+          StringStruct(u'OriginalFilename', u'PDF转图片工具_V1.0.0.exe'),
+          StringStruct(u'ProductName', u'PDF 转图片工具'),
+          StringStruct(u'ProductVersion', u'1.0.0.0')])
+      ]), 
+    VarFileInfo([VarStruct(u'Translation', [2052, 1200])])
+  ]
+)
+

@@ -1,0 +1,66 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+本软件使用 GNU Affero General Public License v3.0 (AGPL-3.0) 许可协议。
+
+完整的许可协议文本请访问：
+https://www.gnu.org/licenses/agpl-3.0.txt
+
+中文参考翻译请访问：
+https://www.gnu.org/licenses/agpl-3.0.zh-cn.html
+
+========================================
+重要说明
+========================================
+
+本项目使用 PyMuPDF (fitz) 库，该库基于 MuPDF，采用 AGPL-3.0 和商业双重许可。
+
+根据 AGPL-3.0 许可协议的要求：
+
+1. 如果您修改本软件并通过网络向用户提供服务，您必须向用户提供修改后的完整源代码。
+
+2. 如果您分发本软件的修改版本，您必须：
+   - 保持相同的 AGPL-3.0 许可证
+   - 提供完整的源代码
+   - 标注您所做的修改
+
+3. 如果您的使用场景无法满足 AGPL-3.0 的要求，您需要联系 Artifex Software Inc. 
+   获取 PyMuPDF/MuPDF 的商业许可证。
+
+========================================
+第三方库许可
+========================================
+
+本软件依赖以下第三方库：
+
+1. PyMuPDF (https://github.com/pymupdf/PyMuPDF)
+   - 许可证: AGPL-3.0 或商业许可
+   - 版权所有: Artifex Software Inc.
+   - 商业许可咨询: https://artifex.com/
+
+详细的第三方软件声明请参见 NOTICE 文件。
+
+========================================
+免责声明
+========================================
+
+本软件按"原样"提供，不提供任何形式的明示或暗示担保，包括但不限于适销性、
+特定用途适用性和非侵权性的担保。在任何情况下，作者或版权持有人均不对
+任何索赔、损害或其他责任负责。
+
+========================================
+
+Copyright (C) 2025 zhifouli
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
