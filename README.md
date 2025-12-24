@@ -1,6 +1,7 @@
 # PDF 转图片工具
 
 一个简单易用的 PDF 批量转图片工具，支持将 PDF 文件转换为 PNG 或 JPG 格式的图片。
+![](https://upyuncdn.zhifouli.top/weblog/uploads/2025/12/974968320.png)
 
 ## ✨ 功能特点
 
@@ -170,3 +171,4 @@ pyinstaller pdf2img_optimized.spec
 ---
 
 © 2025 zhifouli | Licensed under AGPL-3.0
+
